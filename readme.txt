@@ -1,0 +1,1 @@
+node index.js 打开服务器
